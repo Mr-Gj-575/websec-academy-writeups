@@ -1,5 +1,7 @@
 # User ID Controlled by Request Parameter with Data Leakage in Redirect
 
+![Attack flow](../diagrams/ac-07-data-leak-redirect.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — User ID controlled by request parameter with data leakage in redirect](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect)

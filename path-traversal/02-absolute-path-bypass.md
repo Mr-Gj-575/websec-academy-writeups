@@ -1,5 +1,7 @@
 # File Path Traversal — Traversal Sequences Blocked with Absolute Path Bypass
 
+![Attack flow](../diagrams/pt-02-absolute-path-bypass.svg)
+
 **Difficulty:** Practitioner
 **Category:** Path Traversal
 **Lab:** [PortSwigger — Traversal sequences blocked with absolute path bypass](https://portswigger.net/web-security/file-path-traversal/lab-absolute-path-bypass)

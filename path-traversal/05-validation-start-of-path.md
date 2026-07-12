@@ -1,5 +1,7 @@
 # File Path Traversal — Validation of Start of Path
 
+![Attack flow](../diagrams/pt-05-validation-start-of-path.svg)
+
 **Difficulty:** Practitioner
 **Category:** Path Traversal
 **Lab:** [PortSwigger — File path traversal, validation of start of path](https://portswigger.net/web-security/file-path-traversal/lab-validate-start-of-path)

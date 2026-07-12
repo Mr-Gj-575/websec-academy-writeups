@@ -1,5 +1,7 @@
 # Unprotected Admin Functionality
 
+![Attack flow](../diagrams/ac-01-unprotected-admin.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — Unprotected admin functionality](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality)

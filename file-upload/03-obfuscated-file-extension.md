@@ -1,5 +1,7 @@
 # Web Shell Upload via Obfuscated File Extension
 
+![Attack flow](../diagrams/fu-03-obfuscated-extension.svg)
+
 **Difficulty:** Practitioner
 **Category:** File Upload
 **Lab:** [PortSwigger — Web shell upload via obfuscated file extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)

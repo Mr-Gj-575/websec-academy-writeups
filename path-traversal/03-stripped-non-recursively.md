@@ -1,5 +1,7 @@
 # File Path Traversal — Traversal Sequences Stripped Non-Recursively
 
+![Attack flow](../diagrams/pt-03-stripped-non-recursively.svg)
+
 **Difficulty:** Practitioner
 **Category:** Path Traversal
 **Lab:** [PortSwigger — Traversal sequences stripped non-recursively](https://portswigger.net/web-security/file-path-traversal/lab-superfluous-non-recursive-path-removal)

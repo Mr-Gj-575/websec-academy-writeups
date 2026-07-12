@@ -1,5 +1,7 @@
 # File Path Traversal — Simple Case
 
+![Attack flow](../diagrams/pt-01-simple-case.svg)
+
 **Difficulty:** Apprentice
 **Category:** Path Traversal
 **Lab:** [PortSwigger — File path traversal, simple case](https://portswigger.net/web-security/file-path-traversal/lab-simple)

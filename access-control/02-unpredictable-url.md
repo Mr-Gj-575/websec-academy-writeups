@@ -1,5 +1,7 @@
 # Unprotected Admin Functionality with Unpredictable URL
 
+![Attack flow](../diagrams/ac-02-unpredictable-url.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — Unprotected admin functionality with unpredictable URL](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url)

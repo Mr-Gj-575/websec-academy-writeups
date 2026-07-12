@@ -1,5 +1,7 @@
 # Username Enumeration via Different Responses
 
+![Attack flow](../diagrams/auth-01-username-enumeration.svg)
+
 **Difficulty:** Apprentice
 **Category:** Authentication
 **Lab:** [PortSwigger — Username enumeration via different responses](https://portswigger.net/web-security/authentication/username-enumeration/lab-username-enumeration-via-different-responses)

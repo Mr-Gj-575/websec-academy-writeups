@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 586" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="586" fill="#0d1117"/>
+<rect x="40" y="24" width="150" height="28" rx="6" fill="#2563eb"/>
+<text x="115" y="43" font-size="13" font-weight="700" fill="#0d1117" text-anchor="middle">PATH TRAVERSAL</text>
+<text x="40" y="68" font-size="17" font-weight="700" fill="#e6edf3">Traversal Blocked — Absolute Path Bypass</text>
+<rect x="40" y="90" width="620" height="78" rx="10" fill="#161b22" stroke="#2563eb" stroke-width="2"/>
+<text x="60" y="114" font-size="11" font-weight="700" letter-spacing="1" fill="#2563eb">STEP 1</text>
+<text x="60" y="136" font-size="15" fill="#e6edf3">Relative ../ traversal sequence is blocked/stripped</text>
+<line x1="350.0" y1="168" x2="350.0" y2="204" stroke="#2563eb" stroke-width="3"/>
+<polygon points="342.0,198 358.0,198 350.0,212" fill="#2563eb"/>
+<rect x="40" y="214" width="620" height="78" rx="10" fill="#161b22" stroke="#2563eb" stroke-width="2"/>
+<text x="60" y="238" font-size="11" font-weight="700" letter-spacing="1" fill="#2563eb">STEP 2</text>
+<text x="60" y="260" font-size="15" fill="#e6edf3">Try an absolute path instead of a relative one</text>
+<line x1="350.0" y1="292" x2="350.0" y2="328" stroke="#2563eb" stroke-width="3"/>
+<polygon points="342.0,322 358.0,322 350.0,336" fill="#2563eb"/>
+<rect x="40" y="338" width="620" height="78" rx="10" fill="#161b22" stroke="#2563eb" stroke-width="2"/>
+<text x="60" y="362" font-size="11" font-weight="700" letter-spacing="1" fill="#2563eb">STEP 3</text>
+<text x="60" y="376" font-size="15" fill="#e6edf3">Filter only checks for relative traversal, not absolute</text>
+<text x="60" y="395" font-size="15" fill="#e6edf3">paths</text>
+<line x1="350.0" y1="416" x2="350.0" y2="452" stroke="#2563eb" stroke-width="3"/>
+<polygon points="342.0,446 358.0,446 350.0,460" fill="#2563eb"/>
+<rect x="40" y="462" width="620" height="78" rx="10" fill="#2563eb" stroke="#2563eb" stroke-width="2"/>
+<text x="60" y="486" font-size="11" font-weight="700" letter-spacing="1" fill="#0d1117">RESULT</text>
+<text x="60" y="508" font-size="15" fill="#0d1117">Absolute path (/etc/passwd) read directly by server</text>
+</svg>

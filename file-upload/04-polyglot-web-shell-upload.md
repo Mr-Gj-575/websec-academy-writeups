@@ -1,5 +1,7 @@
 # Remote Code Execution via Polyglot Web Shell Upload
 
+![Attack flow](../diagrams/fu-04-polyglot-web-shell.svg)
+
 **Difficulty:** Practitioner
 **Category:** File Upload
 **Lab:** [PortSwigger — Remote code execution via polyglot web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)

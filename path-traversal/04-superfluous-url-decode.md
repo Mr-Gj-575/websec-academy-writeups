@@ -1,5 +1,7 @@
 # File Path Traversal — Traversal Sequences Stripped with Superfluous URL-Decode
 
+![Attack flow](../diagrams/pt-04-superfluous-url-decode.svg)
+
 **Difficulty:** Practitioner
 **Category:** Path Traversal
 **Lab:** [PortSwigger — Traversal sequences stripped with superfluous URL-decode](https://portswigger.net/web-security/file-path-traversal/lab-superfluous-url-decode)

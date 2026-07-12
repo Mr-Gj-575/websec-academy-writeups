@@ -1,5 +1,7 @@
 # File Path Traversal — Validation of File Extension with Null Byte Bypass
 
+![Attack flow](../diagrams/pt-06-null-byte-bypass.svg)
+
 **Difficulty:** Practitioner
 **Category:** Path Traversal
 **Lab:** [PortSwigger — File path traversal, validation of file extension with null byte bypass](https://portswigger.net/web-security/file-path-traversal/lab-validate-file-extension-null-byte)

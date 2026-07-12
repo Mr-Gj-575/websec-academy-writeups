@@ -1,5 +1,7 @@
 # Password Reset Broken Logic
 
+![Attack flow](../diagrams/auth-03-password-reset-logic.svg)
+
 **Difficulty:** Apprentice
 **Category:** Authentication
 **Lab:** [PortSwigger — Password reset broken logic](https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-broken-logic)

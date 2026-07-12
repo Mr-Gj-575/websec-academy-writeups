@@ -1,5 +1,7 @@
 # 2FA Simple Bypass
 
+![Attack flow](../diagrams/auth-02-2fa-bypass.svg)
+
 **Difficulty:** Apprentice
 **Category:** Authentication
 **Lab:** [PortSwigger — 2FA simple bypass](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-simple-bypass)

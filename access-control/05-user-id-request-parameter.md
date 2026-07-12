@@ -1,5 +1,7 @@
 # User ID Controlled by Request Parameter
 
+![Attack flow](../diagrams/ac-05-user-id-parameter.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — User ID controlled by request parameter](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter)

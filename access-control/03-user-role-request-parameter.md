@@ -1,5 +1,7 @@
 # User Role Controlled by Request Parameter
 
+![Attack flow](../diagrams/ac-03-user-role-parameter.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — User role controlled by request parameter](https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter)

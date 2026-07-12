@@ -1,5 +1,7 @@
 # User ID Controlled by Request Parameter, with Unpredictable User IDs
 
+![Attack flow](../diagrams/ac-06-unpredictable-user-ids.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — User ID controlled by request parameter, with unpredictable user IDs](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids)

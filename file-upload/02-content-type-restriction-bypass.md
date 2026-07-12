@@ -1,5 +1,7 @@
 # Web Shell Upload via Content-Type Restriction Bypass
 
+![Attack flow](../diagrams/fu-02-content-type-bypass.svg)
+
 **Difficulty:** Apprentice
 **Category:** File Upload
 **Lab:** [PortSwigger — Web shell upload via Content-Type restriction bypass](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-content-type-restriction-bypass)

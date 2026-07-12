@@ -1,5 +1,7 @@
 # Remote Code Execution via Web Shell Upload
 
+![Attack flow](../diagrams/fu-01-rce-web-shell.svg)
+
 **Difficulty:** Apprentice
 **Category:** File Upload
 **Lab:** [PortSwigger — Remote code execution via web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)

@@ -1,5 +1,7 @@
 # User Role Can Be Modified in User Profile
 
+![Attack flow](../diagrams/ac-04-role-modifiable-profile.svg)
+
 **Difficulty:** Apprentice
 **Category:** Access Control
 **Lab:** [PortSwigger — User role can be modified in user profile](https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile)
