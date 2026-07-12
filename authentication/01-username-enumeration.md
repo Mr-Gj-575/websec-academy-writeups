@@ -1,6 +1,6 @@
 # Username Enumeration via Different Responses
 
-![Attack flow](../diagrams/auth-01-username-enumeration.svg)
+![Attack flow](./auth-01-username-enumeration.svg)
 
 **Difficulty:** Apprentice
 **Category:** Authentication

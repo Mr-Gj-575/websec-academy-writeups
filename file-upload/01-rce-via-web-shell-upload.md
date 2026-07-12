@@ -1,6 +1,6 @@
 # Remote Code Execution via Web Shell Upload
 
-![Attack flow](../diagrams/fu-01-rce-web-shell.svg)
+![Attack flow](./fu-01-rce-web-shell.svg)
 
 **Difficulty:** Apprentice
 **Category:** File Upload

@@ -1,6 +1,6 @@
 # File Path Traversal — Traversal Sequences Blocked with Absolute Path Bypass
 
-![Attack flow](../diagrams/pt-02-absolute-path-bypass.svg)
+![Attack flow](./pt-02-absolute-path-bypass.svg)
 
 **Difficulty:** Practitioner
 **Category:** Path Traversal

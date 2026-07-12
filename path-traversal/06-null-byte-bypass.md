@@ -1,6 +1,6 @@
 # File Path Traversal — Validation of File Extension with Null Byte Bypass
 
-![Attack flow](../diagrams/pt-06-null-byte-bypass.svg)
+![Attack flow](./pt-06-null-byte-bypass.svg)
 
 **Difficulty:** Practitioner
 **Category:** Path Traversal

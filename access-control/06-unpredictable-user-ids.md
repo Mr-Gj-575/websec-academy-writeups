@@ -1,6 +1,6 @@
 # User ID Controlled by Request Parameter, with Unpredictable User IDs
 
-![Attack flow](../diagrams/ac-06-unpredictable-user-ids.svg)
+![Attack flow](./ac-06-unpredictable-user-ids.svg)
 
 **Difficulty:** Apprentice
 **Category:** Access Control

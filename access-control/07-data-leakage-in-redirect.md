@@ -1,6 +1,6 @@
 # User ID Controlled by Request Parameter with Data Leakage in Redirect
 
-![Attack flow](../diagrams/ac-07-data-leak-redirect.svg)
+![Attack flow](./ac-07-data-leak-redirect.svg)
 
 **Difficulty:** Apprentice
 **Category:** Access Control

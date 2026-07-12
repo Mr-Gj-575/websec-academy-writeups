@@ -1,6 +1,6 @@
 # File Path Traversal — Traversal Sequences Stripped with Superfluous URL-Decode
 
-![Attack flow](../diagrams/pt-04-superfluous-url-decode.svg)
+![Attack flow](./pt-04-superfluous-url-decode.svg)
 
 **Difficulty:** Practitioner
 **Category:** Path Traversal

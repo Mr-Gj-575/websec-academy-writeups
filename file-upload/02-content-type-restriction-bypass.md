@@ -1,6 +1,6 @@
 # Web Shell Upload via Content-Type Restriction Bypass
 
-![Attack flow](../diagrams/fu-02-content-type-bypass.svg)
+![Attack flow](./fu-02-content-type-bypass.svg)
 
 **Difficulty:** Apprentice
 **Category:** File Upload

@@ -1,6 +1,6 @@
 # Unprotected Admin Functionality with Unpredictable URL
 
-![Attack flow](../diagrams/ac-02-unpredictable-url.svg)
+![Attack flow](./ac-02-unpredictable-url.svg)
 
 **Difficulty:** Apprentice
 **Category:** Access Control

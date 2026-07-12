@@ -1,6 +1,6 @@
 # User Role Controlled by Request Parameter
 
-![Attack flow](../diagrams/ac-03-user-role-parameter.svg)
+![Attack flow](./ac-03-user-role-parameter.svg)
 
 **Difficulty:** Apprentice
 **Category:** Access Control

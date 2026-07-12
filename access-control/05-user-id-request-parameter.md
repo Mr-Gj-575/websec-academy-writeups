@@ -1,6 +1,6 @@
 # User ID Controlled by Request Parameter
 
-![Attack flow](../diagrams/ac-05-user-id-parameter.svg)
+![Attack flow](./ac-05-user-id-parameter.svg)
 
 **Difficulty:** Apprentice
 **Category:** Access Control

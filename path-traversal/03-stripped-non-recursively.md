@@ -1,6 +1,6 @@
 # File Path Traversal — Traversal Sequences Stripped Non-Recursively
 
-![Attack flow](../diagrams/pt-03-stripped-non-recursively.svg)
+![Attack flow](./pt-03-stripped-non-recursively.svg)
 
 **Difficulty:** Practitioner
 **Category:** Path Traversal

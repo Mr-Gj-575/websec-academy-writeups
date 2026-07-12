@@ -1,6 +1,6 @@
 # 2FA Simple Bypass
 
-![Attack flow](../diagrams/auth-02-2fa-bypass.svg)
+![Attack flow](./auth-02-2fa-bypass.svg)
 
 **Difficulty:** Apprentice
 **Category:** Authentication

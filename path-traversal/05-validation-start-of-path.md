@@ -1,6 +1,6 @@
 # File Path Traversal — Validation of Start of Path
 
-![Attack flow](../diagrams/pt-05-validation-start-of-path.svg)
+![Attack flow](./pt-05-validation-start-of-path.svg)
 
 **Difficulty:** Practitioner
 **Category:** Path Traversal

@@ -1,6 +1,6 @@
 # Web Shell Upload via Obfuscated File Extension
 
-![Attack flow](../diagrams/fu-03-obfuscated-extension.svg)
+![Attack flow](./fu-03-obfuscated-extension.svg)
 
 **Difficulty:** Practitioner
 **Category:** File Upload

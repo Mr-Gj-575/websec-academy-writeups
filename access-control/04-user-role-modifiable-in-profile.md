@@ -1,6 +1,6 @@
 # User Role Can Be Modified in User Profile
 
-![Attack flow](../diagrams/ac-04-role-modifiable-profile.svg)
+![Attack flow](./ac-04-role-modifiable-profile.svg)
 
 **Difficulty:** Apprentice
 **Category:** Access Control

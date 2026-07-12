@@ -1,6 +1,6 @@
 # File Path Traversal — Simple Case
 
-![Attack flow](../diagrams/pt-01-simple-case.svg)
+![Attack flow](./pt-01-simple-case.svg)
 
 **Difficulty:** Apprentice
 **Category:** Path Traversal
